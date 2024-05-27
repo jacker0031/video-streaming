@@ -1,0 +1,3 @@
+aws:
+  region: "ap-south-1"
+  s3_bucket: "video-streaming-app"
